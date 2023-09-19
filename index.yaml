@@ -4,10 +4,10 @@ entries:
   - apiVersion: v1
     appVersion: 3.1.0
     created: "2023-09-18T07:37:19.52128363Z"
-    digest: 65ae3f97f8398d77a74be8dba60da9e70cbad024aa4aeb8c599aca4fa1820b1b
+    digest: 65ae4f97f8398d77a74be8dba60da9e70cbad024aa4aeb8c599aca4fa1820b1b
     name: sn-platform
     sources:
-    - https://github.com/streamnative/charts/tree/master/charts/sn-platform
+    - https://github.com/ericsyh/sn-platform-chart/tree/main/sn-platform-slim
     urls:
-    - https://github.com/streamnative/charts/releases/download/sn-platform-1.11.0/sn-platform-1.11.0.tgz
+    - https://github.com/ericsyh/sn-platform-chart/releases/download/3.1.0/sn-platform-slim-3.1.0.tgz
     version: 3.1.0
